@@ -2,7 +2,7 @@
 import UserModel from "./userModel.js";
 
 // Import model ConversationModel từ file "ConversationModel.js"
-import ConversationModel from "./ConversationModel.js";
+import ConversationModel from "./conversationModel.js";
 
 // Import model MessageModel từ file "messageModel.js"
 import MessageModel from "./messageModel.js";
